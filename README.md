@@ -8,16 +8,15 @@ This site showcases our mission, leadership, services, past projects, testimonia
 
 ## 🌐 Live Demo
 
-> 🔗 [Visit Live Website](https://your-live-deployment-link.com)
+> 🔗 [Visit Live Website]([https://madhavinfra.vercel.app/])
 
 ---
 
 ## 📸 Preview
 
-![Madhav Infra Landing Page](./screenshots/landing-page.png)
-![Projects Section](./screenshots/projects-section.png)
-![Responsive View](./screenshots/mobile-view.png)
+![Madhav Infra Landing Page] ![image](https://github.com/user-attachments/assets/f3d14a20-cc6f-4a5e-8004-777eca4a1841)
 
+![Projects Section] ![image](https://github.com/user-attachments/assets/1c189cd0-0f93-42da-8b9c-e2ba44ce718c)
 ---
 
 ## 📦 Features
