@@ -1,6 +1,6 @@
 # 🏗️ Madhav Infra — Official Website(Frontend)
 
-Welcome to the official website repository for **Madhav Infra**, a leading construction and infrastructure development company in India.
+Welcome to the Prototype website repository for **Madhav Infra**, a construction and infrastructure development company in India.
 
 This site showcases our mission, leadership, services, past projects, testimonials, and contact form, all wrapped in a smooth, animated user experience with a modern dark theme.
 
